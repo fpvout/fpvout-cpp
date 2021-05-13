@@ -9,7 +9,6 @@
 #include <sys/timeb.h>
 
 using namespace std;
-using namespace std::chrono;
 
 double now() {
     struct timeb timebuffer;
